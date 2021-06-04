@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px" viewBox="0 0 28 28">
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title>Combined Shape</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Desktop-Footer" transform="translate(-578.000000, -409.000000)" fill="#000000">
+      <g id="Stacked-Group" transform="translate(506.000000, 379.000000)">
+        <path d="M76,30 L96,30 L96,30 C98.209139,30 100,31.790861 100,34 L100,54 L100,54 C100,56.209139 98.209139,58 96,58 L76,58 L76,58 C73.790861,58 72,56.209139 72,54 L72,34 L72,34 C72,31.790861 73.790861,30 76,30 L76,30 Z M94.8097656,34.0879187 C88.9074219,33.5582684 85.9570313,35.4217056 85.9585938,39.6782302 C85.9601563,43.9347549 85.959375,45.0729339 85.95625,43.0927671 L82,43.0927671 L82,47.1004806 L85.95625,47.1004806 L85.95625,58 L89.9,58 L89.9,47.1004806 L94.8097656,47.1004806 L94.8097656,43.0927671 L89.9,43.0927671 L89.9,39.6782302 C90.0615885,38.5996072 90.569401,38.0251576 91.4234375,37.9548817 C92.277474,37.8846058 93.40625,37.8846058 94.8097656,37.9548817 L94.8097656,34.0879187 Z" id="Combined-Shape"></path>
+      </g>
+    </g>
+  </g>
+</svg>

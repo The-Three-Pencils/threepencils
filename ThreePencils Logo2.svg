@@ -11,7 +11,7 @@
 <font horiz-adv-x="1000">
 <!-- Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins) -->
 <!-- Copyright: Copyright 2021 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="Poppins-Bold" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<font-face font-family="Poppins" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
 <missing-glyph horiz-adv-x="500" d="M0,700l500,0l0,-700l-500,0M420,650l-340,0l170,-255M50,95l170,255l-170,255M450,95l0,510l-170,-255M420,50l-170,255l-170,-255z"/>
 <glyph unicode="
 " horiz-adv-x="212"/>

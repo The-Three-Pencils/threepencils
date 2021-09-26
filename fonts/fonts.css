@@ -12,7 +12,7 @@
 @font-face {
     font-family: 'Splice Sans';
     src: url('SpliceSans-Regular Italic.otf') format('opentype');
-    font-weight: bold;
+    font-weight: normal;
     font-style: oblique;
 }
 

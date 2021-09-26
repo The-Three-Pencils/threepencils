@@ -1,0 +1,32 @@
+/* All of these fonts are made by the Three Pencils Foundry. Please do not reproduce or redistrubute without special permission from @prodscxnt.*/
+
+
+
+@font-face {
+    font-family: 'Splice Sans';
+    src: url('SpliceSans-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Splice Sans';
+    src: url('SpliceSans-Regular Italic.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Splice Sans';
+    src: url('SpliceSans-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Splice Sans';
+    src: url('SpliceSans-Bold Italic.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
